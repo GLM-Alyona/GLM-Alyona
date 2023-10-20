@@ -10,11 +10,11 @@
 
 👩🏻‍💻 Примеры выполненных задач: 
 
-✅ Рекомендательный чат-бот Chaos Organizer https://github.com/GLM-Alyona/ahj-diploma-frontend
-✅ Облачный сервис для управления небольшими командами и проектами по примеру Trello https://github.com/GLM-Alyona/ahj-trello
-✅ Web-игра Retro Game на JavaScript https://github.com/GLM-Alyona/ajs-diploma
-✅ Виджет "collapsible"-контейнеров, который может разворачиваться и сворачиваться https://github.com/GLM-Alyona/ahj-animation
-✅ Web-игра "Крестики-нолики" https://github.com/GLM-Alyona/krestiki-noliki
-✅ Unit-тестирование https://github.com/GLM-Alyona/unit-test
-✅ Credit Card Validator https://github.com/GLM-Alyona/testing
+✅ Рекомендательный чат-бот Chaos Organizer https://github.com/GLM-Alyona/ahj-diploma-frontend  
+✅ Облачный сервис для управления небольшими командами и проектами по примеру Trello https://github.com/GLM-Alyona/ahj-trello  
+✅ Web-игра Retro Game на JavaScript https://github.com/GLM-Alyona/ajs-diploma  
+✅ Виджет "collapsible"-контейнеров, который может разворачиваться и сворачиваться https://github.com/GLM-Alyona/ahj-animation  
+✅ Web-игра "Крестики-нолики" https://github.com/GLM-Alyona/krestiki-noliki  
+✅ Unit-тестирование https://github.com/GLM-Alyona/unit-test  
+✅ Credit Card Validator https://github.com/GLM-Alyona/testing  
 
