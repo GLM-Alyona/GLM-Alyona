@@ -25,7 +25,7 @@
 
 👩🏻‍💻 **Примеры выполненных задач:**
 
-✅ Фотосток https://github.com/GLM-Alyona/img-stock
+✅ Фотосток https://github.com/GLM-Alyona/img-stock   
 ✅ Сайт для бронирования онлайн билетов в кинотеатр на Laravel https://github.com/GLM-Alyona/cinema-app  
 ✅ Рекомендательный чат-бот Chaos Organizer https://github.com/GLM-Alyona/ahj-diploma-frontend  
 ✅ Облачный сервис для управления небольшими командами и проектами по примеру Trello https://github.com/GLM-Alyona/ahj-trello  
