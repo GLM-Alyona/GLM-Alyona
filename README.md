@@ -24,6 +24,7 @@
 [![PHPStorm](https://img.shields.io/badge/-PHPStorm-111?style=for-the-badge&logo=PHPStorm&color=teal&logoColor=white)](https://www.jetbrains.com/phpstorm/)  
 
 👩🏻‍💻 **Примеры выполненных задач:**
+
 ✅ Фотосток https://github.com/GLM-Alyona/img-stock
 ✅ Сайт для бронирования онлайн билетов в кинотеатр на Laravel https://github.com/GLM-Alyona/cinema-app  
 ✅ Рекомендательный чат-бот Chaos Organizer https://github.com/GLM-Alyona/ahj-diploma-frontend  
